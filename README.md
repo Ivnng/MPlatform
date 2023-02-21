@@ -37,3 +37,5 @@ The resulting files are listed:
  * 03_model.ipynb
  
  Regards.
+ 
+ By: Ivanna Villa.
