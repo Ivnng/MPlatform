@@ -31,7 +31,8 @@ The resulting files are listed:
   
  Which you can also find in the link: https://mega.nz/folder/umIgGLTb#GtdfJXpJJGORmujvGbJMZg
  
- Then the Scikit-Learn library was used to create a very basic Recommendation Model, in which the user inputs the movie title and the program returns a list of the top ten movies, most similar based on cast and category.
+ Then the Scikit-Learn library was used to create a very basic Recommendation Model, in which the user inputs the movie title and the program returns a list of the top ten most similar movies based on cast and category.
+ 
  It was deployed on Streamlit, you can check it out here:
  
  Regards.
