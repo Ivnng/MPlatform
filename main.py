@@ -9,7 +9,7 @@ from pathlib import Path
 # %%
 #Read files
 
-title_path = Path(__file__).parents[0] / 'transformed_data/title.csv'
+title_path = Path(__file__).parents[0] / 'transformed_data\title.csv'
 title = pd.read_csv(title_path)
 
 # %%
